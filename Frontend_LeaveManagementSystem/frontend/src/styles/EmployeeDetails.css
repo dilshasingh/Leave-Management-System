@@ -1,0 +1,33 @@
+.emp-details-table-container {
+  padding: 20px;
+  background-color: #ffffff;
+  border-radius: 12px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.05);
+  margin: 20px auto;
+  max-width: 600px;
+}
+
+.emp-details-table-container h3 {
+  color: #1a3f7c;
+  margin-bottom: 16px;
+  text-align: center;
+}
+
+.emp-details-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.emp-details-table th,
+.emp-details-table td {
+  border: 1px solid #d9e2ec;
+  padding: 10px 14px;
+  text-align: left;
+  color: #1a1a1a;
+}
+
+.emp-details-table th {
+  background-color: #eaf1fb;
+  color: #1a3f7c;
+  width: 30%;
+}
